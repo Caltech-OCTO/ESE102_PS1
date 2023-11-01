@@ -2,3 +2,6 @@ numpy==1.25.0
 xarray==2023.09.0
 matplotlib==3.8.0
 netCDF4==1.6.4
+scipy==1.11.3
+gsw==3.6.16
+PyCO2SYS==1.8.2
